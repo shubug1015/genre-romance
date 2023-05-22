@@ -1,0 +1,11 @@
+.nice-dates-navigation,
+.nice-dates-day {
+  color: #111;
+}
+.nice-dates-popover {
+  box-shadow: none;
+  border: 1px solid #ddd;
+  border-radius: 2px;
+  max-width: 480px;
+  transition: none;
+}
